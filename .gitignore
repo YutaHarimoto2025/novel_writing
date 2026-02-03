@@ -1,2 +1,7 @@
 *.html
 *.pdf
+# **/publish/
+# すべての階層の .vscode を無視
+**/.vscode/
+# ルート直下の .vscode だけは無視しない（否定）
+!/.vscode/
