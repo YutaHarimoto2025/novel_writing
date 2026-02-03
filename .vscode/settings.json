@@ -1,0 +1,10 @@
+{
+    "editor.wordWrap": "on",               // 右端で折り返す
+//     "editor.lineNumbers": "on",            // 行番号を表示（目安になります）
+//     "editor.renderWhitespace": "all",      // 全角スペースを可視化
+//     "editor.fontFamily": "YuMincho, 'Yu Mincho', serif", // 小説らしく明朝体に
+//     "editor.fontSize": 15,                 // 少し大きめが疲れにくい
+//     "editor.lineHeight": 1.5,              // 行間を広くして読みやすく
+    "files.autoSave": "afterDelay",        // 数秒ごとに自動保存
+//     // "novel.preview.vertical": true         // vscode-novelで縦書きをデフォルトに
+}
