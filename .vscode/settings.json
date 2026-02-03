@@ -1,0 +1,87 @@
+{
+   "workbench.colorCustomizations": {
+    /* ===============================
+       入力領域（メインエディタ）
+       =============================== */
+    "editor.background": "#1e1416",           // かなり深いダークピンク（ほぼ黒に近いピンク）
+    "editor.foreground": "#eecad5",           // 読みやすい薄ピンク
+    "editorLineNumber.foreground": "#6b4a53",  // 行番号（沈んだピンク）
+    "editorCursor.foreground": "#ff8fa3",     // カーソル（光るピンク）
+    "editorWhitespace.foreground": "#3d2a2f",
+    "editor.selectionBackground": "#5a2d38",   // 選択範囲（深みのあるワインレッド系）
+    "editor.selectionHighlightBackground": "#4a252e",
+    "panel.background": "#1a1012",
+    "panel.border": "#4a2d35",
+    "panelTitle.activeForeground": "#ffb6c1",
+    "panelTitle.inactiveForeground": "#8d6e75",
+    "panelTitle.activeBorder": "#ff8fa3",
+
+    /* ===============================
+       サイドバー
+       =============================== */
+    "sideBar.background": "#25181b",          // サイドバー（エディタより少し明るい）
+    "sideBar.foreground": "#d4b8bd",
+    "sideBar.border": "#3d262b",
+    "sideBarTitle.foreground": "#eecad5",
+    "sideBarSectionHeader.background": "#362226",
+    "sideBarSectionHeader.foreground": "#eecad5",
+
+    /* リスト要素 */
+    "list.activeSelectionBackground": "#4a2d35",
+    "list.activeSelectionForeground": "#ffccd5",
+    "list.hoverBackground": "#2d1e21",
+    "list.inactiveSelectionBackground": "#362226",
+
+    /* ===============================
+       Activity Bar
+       =============================== */
+    "activityBar.background": "#1a1012",
+    "activityBar.foreground": "#ff8fa3",
+    "activityBar.border": "#3d262b",
+    "activityBarBadge.background": "#ff4d6d",
+    "activityBarBadge.foreground": "#ffffff",
+
+    /* ===============================
+       タブ・エディタグループ
+       =============================== */
+    "tab.activeBackground": "#1e1416",        // エディタと同じ色で一体化
+    "tab.activeForeground": "#ffccd5",
+    "tab.inactiveBackground": "#2d1e21",
+    "tab.inactiveForeground": "#8d6e75",
+    "tab.hoverBackground": "#362226",
+    "tab.border": "#2d1e21",
+    "tab.activeBorder": "#ff8fa3",
+    "editorGroup.border": "#3d262b",
+    "editorGroupHeader.tabsBorder": "#3d262b",
+
+    /* ===============================
+       Title / Status Bar
+       =============================== */
+    "titleBar.activeBackground": "#1a1012",
+    "titleBar.activeForeground": "#d4b8bd",
+    "statusBar.background": "#3d1a22",         // 少しだけ色味を感じる暗いピンク
+    "statusBar.foreground": "#ffccd5",
+    "statusBar.border": "#4a2d35",
+
+    /* ===============================
+       スクロール・ミニマップ
+       =============================== */
+    "scrollbarSlider.background": "#5a2d3888",
+    "scrollbarSlider.hoverBackground": "#7a3d4a",
+    "minimap.background": "#1e1416",
+
+    /* ===============================
+       インデントガイド
+       =============================== */
+    "editorIndentGuide.background": "#2d1e21",
+    "editorIndentGuide.activeBackground": "#ff8fa3"
+   }, 
+    "editor.wordWrap": "on",               // 右端で折り返す
+//     "editor.lineNumbers": "on",            // 行番号を表示（目安になります）
+//     "editor.renderWhitespace": "all",      // 全角スペースを可視化
+//     "editor.fontFamily": "YuMincho, 'Yu Mincho', serif", // 小説らしく明朝体に
+//     "editor.fontSize": 15,                 // 少し大きめが疲れにくい
+//     "editor.lineHeight": 1.5,              // 行間を広くして読みやすく
+    "files.autoSave": "afterDelay",        // 数秒ごとに自動保存
+//     // "novel.preview.vertical": true         // vscode-novelで縦書きをデフォルトに
+}
