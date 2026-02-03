@@ -8,5 +8,7 @@ pdf縦書きか横書きか　Novel › Preview: Writing Direction
 （テキスト校正くん）
 
 markdown pdf 拡張
-- publishでnovel_writing.txtをmdにした上で、右クリック>markdown pdf: exportでchromeから見れるpdfを出力できる
-- ~~ テスト ~~
+publishでnovel_writing.txtをmdにした上で、右クリック>markdown pdf: exportでchromeから見れるpdfを出力できる
+が，pdfとしてきれいなのはnovel: pdf出力　ただしwslだとできなかった
+
+各作品フォルダでln  -s  ../.vscode  .vscodeをたたき，親(novel_writing).vscodeをシンボリックリンクとして共有する
