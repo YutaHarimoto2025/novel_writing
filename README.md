@@ -5,7 +5,7 @@
 環境　https://taiyolab.com/ja/novel-writer/
 pdf縦書きか横書きか　Novel › Preview: Writing Direction
 
-（テキスト校正く）
+（テキスト校正くん）
 
 markdown pdf 拡張
 - publishでnovel_writing.txtをmdにした上で、右クリック>markdown pdf: exportでchromeから見れるpdfを出力できる
